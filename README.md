@@ -1,6 +1,7 @@
 # chyawanprashwala1
-SQL learning curve
+SQL learning curve 
 links 
+
 https://sqlzoo.net/
 
 https://datalemur.com/blog/learn-sql-in-30-days-roadmap 
